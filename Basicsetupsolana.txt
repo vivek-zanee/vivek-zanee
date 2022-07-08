@@ -1,0 +1,31 @@
+to create a txt file -> nano <filename.txt>
+
+Solana Notes:
+first connect to devnet also setting in our url -> solana config set --url http://api.devnet.solana.com
+
+If we need to set our localhost means use -> set url localhost -> solana config set --url localhost
+
+current config -> solana config get
+
+create new account -> solana-keygen new or solana-keygen new -o <filename.json>
+
+NOTE:: if we create a account inside .config/solana/ the account will have 500000sol by default. in devnet, the account will be proper 0.
+
+if keypair isnt set correctly or default -> solana config set --keypair <location> For eg: /home/vivek/.config/solana/id.json
+
+to check pubkey -> solana address
+
+to check balance -> solana balance <address>
+
+to start validator -> solana-test-validator -r
+
+to airdrop solana -> solana airdrop <amount> <address>
+
+to get logs -> solana logs
+
+to deploy program,
+got to the directory till the program folder and -> cargo build
+
+thn for solana practice, cargo build-bpf --manifest-path=Cargo.toml --bpf-out-dir=dist/program
+
+after that copy the deploy address and run. Make sure to have test-validator running.
