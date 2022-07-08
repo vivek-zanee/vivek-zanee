@@ -1,5 +1,7 @@
 to create a txt file -> nano <filename.txt>
 
+to add path ->  export PATH="$HOME/<path>:$PATH"
+
 Solana Notes:
 first connect to devnet also setting in our url -> solana config set --url http://api.devnet.solana.com
 
