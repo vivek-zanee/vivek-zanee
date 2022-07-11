@@ -58,8 +58,11 @@
   <a href="https://www.blackmagicdesign.com/sg/products/davinciresolve/?utm=saznajnovo" target="blank">
     <img src="assets/tools/davinci-resolve.svg" alt="davinciresolve" height="40" width="40" />
   </a>
-   <a href="https://www.virtualbox.org/" target="blank">
-    <img src="assets/tools/oracle-logo.svg" alt="virtualbox" height="40" width="40" />
+  <a href="https://github.com/" target="blank">
+    <img src="assets/tools/adobe-lightroom.svg" alt="Lightroom" height="40" width="40" />
+  </a>
+  <a href="https://www.virtualbox.org/" target="blank">
+    <img src="assets/tools/github.svg" alt="github" height="40" width="40" />
   </a>
 
 </div>
