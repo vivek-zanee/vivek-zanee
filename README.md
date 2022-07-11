@@ -15,7 +15,7 @@
 - Also Scaling up myself to new technologies and looking for an opportunity to land in **Web3** Area.
 
 ### Blog posts
-- Comming Soon :)
+- Coming Soon :)
 <!-- BLOG-POST-LIST:START -->
 <!-- - [The story behind “MatchGame”](https://minipachru.medium.com/the-story-behind-matchgame-d038d5a8d1d1?source=rss-bdb34447e055------2)
 - [Postmortem](https://minipachru.medium.com/postmortem-e6da3359b6ea?source=rss-bdb34447e055------2)
