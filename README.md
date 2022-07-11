@@ -52,13 +52,13 @@
     <img src="assets/tools/visualstudiocode.svg" alt="VS Code" height="40" width="40" />
   </a>
   <a href="https://lightroom.adobe.com/" target="blank">
-    <img src="assets/tools/lightroom-logo.svg" alt="Lightroom" height="40" width="40" />
+    <img src="assets/tools/adobe-lightroom.svg" alt="Lightroom" height="40" width="40" />
   </a>
   <a href="https://www.blackmagicdesign.com/sg/products/davinciresolve/?utm=saznajnovo" target="blank">
     <img src="assets/tools/davinci-resolve.svg" alt="davinciresolve" height="40" width="40" />
   </a>
    <a href="https://www.virtualbox.org/" target="blank">
-    <img src="assets/tools/vmware.svg" alt="virtualbox" height="40" width="40" />
+    <img src="assets/tools/oracle-logo.svg" alt="virtualbox" height="40" width="40" />
   </a>
 
 </div>
