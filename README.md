@@ -53,7 +53,7 @@
     <img src="assets/tools/visualstudiocode.svg" alt="VS Code" height="40" width="40" />
   </a>
   <a href="https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers" target="_blank">
-    <img src="assets/tools/java.svg" alt="java-eclipse" width="40" height="40"/>
+    <img src="assets/tools/java-eclipse.svg" alt="java-eclipse" width="40" height="40"/>
   </a>
   <a href="https://lightroom.adobe.com/" target="blank">
     <img src="assets/tools/adobe-lightroom.svg" alt="Lightroom" height="40" width="40" />
