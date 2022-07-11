@@ -78,6 +78,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="assets/languages/css3.svg" alt="css3" width="40" height="40"/> 
   </a>
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="assets/languages/java.svg" alt="java" width="40" height="40"/> 
+  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="assets/frameworks/tailwindcss.svg" alt="tailwind" width="40" height="40"/>
   </a>
