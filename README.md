@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working as ASDE in Mphasis.
+
+- 🔭 I’m currently working as ASDE in **Mphasis**.
 
 - 🌱 I’m currently learning **Rust**
 
@@ -52,7 +53,7 @@
     <img src="assets/tools/visualstudiocode.svg" alt="VS Code" height="40" width="40" />
   </a>
   <a href="https://lightroom.adobe.com/" target="blank">
-    <img src="assets/tools/adobe-lightroom.svg" alt="Lightroom" height="40" width="40" />
+    <img src="assets/tools/adobe-lightroom.svg" alt="Lightroom" height="40" width="50" />
   </a>
   <a href="https://www.blackmagicdesign.com/sg/products/davinciresolve/?utm=saznajnovo" target="blank">
     <img src="assets/tools/davinci-resolve.svg" alt="davinciresolve" height="40" width="40" />
