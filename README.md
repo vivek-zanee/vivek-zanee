@@ -67,8 +67,8 @@
   <a href="https://www.virtualbox.org/" target="blank">
     <img src="assets/tools/oracle-logo.svg" alt="virtualbox" height="40" width="40" />
   </a>
-
 </div>
+<br>
 
 <h3 align="center">Languages and Frameworks</h3>
 <div align="center">
@@ -94,6 +94,7 @@
     <img src="assets/frameworks/elephant.png" alt="postgresql" width="40" height="40"/>
   </a>
 </div>
+<br>
 
 <!-- ## 📈 Statistics -->
 
