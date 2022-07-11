@@ -95,7 +95,7 @@
   </a>
 </div>
 
-## 📈 Statistics
+<!-- ## 📈 Statistics -->
 
 <!-- <br/>
 <p align="center">
