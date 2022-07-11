@@ -78,6 +78,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="assets/languages/css3.svg" alt="css3" width="40" height="40"/> 
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="assets/languages/javascript.svg" alt="javascript" width="40" height="40"/>
+  </a>
   <a href="https://www.java.com/en/" target="_blank">
     <img src="assets/languages/java.svg" alt="java" width="40" height="40"/> 
   </a>
@@ -86,9 +89,6 @@
   </a>
   <a href="https://getbootstrap.com/">
     <img src="assets/frameworks/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="assets/languages/javascript.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/">
     <img src="assets/frameworks/elephant.png" alt="postgresql" width="40" height="40"/>
