@@ -87,11 +87,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="assets/languages/javascript.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://vuejs.org/" target="_blank">
-  <img src="assets/frameworks/vuedotjs.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank">
-    <img src="assets/frameworks/vuetify.svg" alt="vuetify" width="40" height="40"/>
+  <a href="https://www.postgresql.org/">
+    <img src="assets/frameworks/elephant.png" alt="postgresql" width="40" height="40"/>
   </a>
 </div>
 
