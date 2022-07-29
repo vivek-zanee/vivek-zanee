@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 
-- 🔭 I’m currently working as ASDE in **Mphasis**.
+- 🔭 I’m currently working as SDE in **Mphasis**.
 
 - 🌱 I’m currently learning **Rust**
 
