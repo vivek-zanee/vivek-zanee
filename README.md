@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A full stack developer </h3>
 
 
 - 🔭 I’m currently working as SDE in **Mphasis**.
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Data Analytics and Cleaning** Eg: Sql, Tablaeu, Power bi, etc.
 
 - 📫 Reach me -> **viveklinganathan@gmail.com** or any of my social media handle
 
