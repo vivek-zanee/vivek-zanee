@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as SDE in **Mphasis**.
 
-- 🌱 I’m currently learning **Data Analytics and Cleaning** Eg: Sql, Tablaeu, Power bi, etc.
+- 🌱 I’m currently learning **Data Analytics and Cleaning** Eg: Sql, Tableau, Power bi, etc.
 
 - 📫 Reach me -> **viveklinganathan@gmail.com** or any of my social media handle
 
@@ -69,6 +69,9 @@
   </a>
   <a href="https://powerbi.microsoft.com/en-us/" target="blank">
     <img src="assets/tools/icons8-power-bi.svg" alt="power-bi" height="40" width="40" />
+  </a>
+  <a href="https://www.tableau.com/" target="blank">
+    <img src="assets/tools/icons8-tableau-software.svg" alt="tableau" height="40" width="40" />
   </a>
 </div>
 <br>
