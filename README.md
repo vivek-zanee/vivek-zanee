@@ -67,6 +67,9 @@
   <a href="https://www.virtualbox.org/" target="blank">
     <img src="assets/tools/oracle-logo.svg" alt="virtualbox" height="40" width="40" />
   </a>
+  <a href="https://powerbi.microsoft.com/en-us/" target="blank">
+    <img src="assets/tools/icons8-power-bi.svg" alt="power-bi" height="40" width="40" />
+  </a>
 </div>
 <br>
 
